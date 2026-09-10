@@ -1,0 +1,6 @@
+{
+  "name": "文献リネーマー",
+  "description": "論文フォルダ内のPDFからDOIを自動抽出し、出版年_著者_タイトル.pdfに一括リネーム・管理する文献整理アプリ",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
